@@ -1,0 +1,45 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Blank Pixel Game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Blank Pixel Game",
+  "resources":[
+    {"id":{"name":"Object_Body_Empty","path":"objects/Object_Body_Empty/Object_Body_Empty.yy",},},
+    {"id":{"name":"Object_Body_Full","path":"objects/Object_Body_Full/Object_Body_Full.yy",},},
+    {"id":{"name":"Object_Soul_Player_1","path":"objects/Object_Soul_Player_1/Object_Soul_Player_1.yy",},},
+    {"id":{"name":"Object_Wall","path":"objects/Object_Wall/Object_Wall.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite_Body_Empty","path":"sprites/Sprite_Body_Empty/Sprite_Body_Empty.yy",},},
+    {"id":{"name":"Sprite_Body_Full","path":"sprites/Sprite_Body_Full/Sprite_Body_Full.yy",},},
+    {"id":{"name":"Sprite_Soul_Player_1","path":"sprites/Sprite_Soul_Player_1/Sprite_Soul_Player_1.yy",},},
+    {"id":{"name":"Sprite_Wall_Grey","path":"sprites/Sprite_Wall_Grey/Sprite_Wall_Grey.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
