@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Note_MasterNote",
+  "name":"Note_MasterNote",
+  "parent":{
+    "name":"SpiritLabrynth",
+    "path":"SpiritLabrynth.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

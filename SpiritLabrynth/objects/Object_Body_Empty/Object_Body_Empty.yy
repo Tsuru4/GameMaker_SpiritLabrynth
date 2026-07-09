@@ -36,5 +36,8 @@
     "path":"sprites/Sprite_Body_Empty/Sprite_Body_Empty.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "physical",
+  ],
   "visible":true,
 }

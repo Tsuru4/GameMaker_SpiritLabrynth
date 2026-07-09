@@ -1,0 +1,1 @@
+new_form = instance_create_layer(x,y,layer,Object_Body_Empty);

@@ -1,0 +1,97 @@
+Game Theme:
+
+	1 Bodies and spirits, particularly "out of body" experiences.
+	2 Maintaining Relationships.
+		As subthemes to both 1 and 2: Freedom versus Power. Maintaining what you own responsibly.
+	Mazes.
+
+Other details:
+	-The main character is a spirit who can freely leave and reposess a body.
+	-In spirit form, they are free from collisions and can walk through walls and over pits.
+		Nothing can hurt the spirit, and they are free.
+	-In their body, they exchange freedom from the physcial world for the power to interact with it.
+	-They also need to maintain their body.
+		The goal is not to become more power, but rather to maintain the things which give them their power.
+	-The main character's initial goal is to navigate their body outside of a labrynth. 
+		They can leave their body to gain information and perspectives in spirit form which they could not obtain relying soley on their body.
+
+Setting:
+	A fantasy multifloor labrynth under the sea floor. Many fantasy creatures dwell in it.
+
+Inhabitants:
+	Mainly merfolk, dwarves, and possibly goblins.
+	Also homunculi, automaton, and undead variants of the above.
+	(Undead as in skeletons, zombies, vampires, and ghosts).
+	Maybe a dragon or similary sized sea monster as a floor boss?
+	Sharks, dolphins, or whales? Jellyfish?
+	Another spirit acts as the player's guide.
+
+Abilities:
+	-In spirit form, the other player has the ability to see other spirits.
+		However, the player needs to keep these senses sharp by maintaining their friendship with their spirit guide. Should they lose this gift, they will not get it back.
+	-The spirits can pass through walls freely to explore.
+		In this state, however, the physical world slowly fades from view, so they must act quickly to gain the information they want.
+	-The spirits can possess other unoccupied bodies besides their own (particularly homunculi and automatons).
+		Possessing bodies belonging to someone else will bring negative long term consequences though.
+	-Open doors.
+	-Press levers.
+
+Potential abilities:
+	-Talk - talk with NPCs.
+	-Alchemy - With the right materials, you could construct a homunculus?
+	-Magic - command the elements for help with combat and puzzle obstacles.
+	-???Glasses?Crystal Ball? - a technique to allow the soul to see things from a distance?
+	-Swimming?
+
+Key benchmarks for the player's journey:
+	Each will open new paths but close old ones in the process, restructuring the maze.
+	-Find a way to light up the labyrnth. This improves navigation and awakens native inhabitants.
+	-Drain the seawater from the labrynth for new access ways.
+	-Repair airlocks and pressure systems. Doing so blocks airvent access but opens formerly unsurvivable locations.
+	-Restore electricity to the labrynth. This opens certain elevators but reactivates automated security systems.
+	-Open the main gates.
+
+Floors:
+	-B1: A silver mine
+	-F1: 
+		[ ] Main street.
+		[ ] Automatron workshop
+		[ ] Smithy
+		[ ] WaterPark F1
+		[ ] Residential district F1
+		[ ] Main Market F1
+		[ ] Aquarium
+		[ ] East and West gates
+	-F2: 
+		[ ] Powerplant
+		[ ] Fishery
+		[ ] WaterPark F2
+		[ ] Residential district F2
+		[ ] Market F2
+		[ ] TO_BE_PLANNED
+	-F3:
+		[ ] Library
+		[ ] WaterPark F3
+		[ ] Residential district F3
+		[ ] Market F3
+		[ ] Church
+		[ ] Council Hall
+		[ ] Museum / Hall of Legends
+		[ ] School
+	-F4:
+		[ ] WaterPark F4
+		[ ] Residential district F4
+		[ ] Market F4
+		[ ] Alchemy Shop
+		[ ] TO_BE_PLANNED
+	-F5:
+		[ ] Resturaunt
+		[ ] Hospital
+		[ ] West Gate 2
+		[ ] Bathhouse
+		[ ] Inns
+	-SeaFloor:
+		[ ] Abandoned Farms (hedges and irigation will block paths)
+		[ ] Central Gardens
+		[ ] Graveyards
+		

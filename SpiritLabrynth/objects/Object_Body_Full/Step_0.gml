@@ -13,4 +13,4 @@ else
 	velocity = 0;
 }
 
-move_and_collide(_hor * velocity, _ver * velocity, tilemap);
+move_and_collide(_hor * velocity, _ver * velocity, Object_Wall);

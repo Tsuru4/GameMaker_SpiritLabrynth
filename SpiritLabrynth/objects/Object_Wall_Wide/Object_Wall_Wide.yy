@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Object_Wall",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object_Wall_Wide",
+  "eventList":[],
   "managed":true,
-  "name":"Object_Wall",
+  "name":"Object_Wall_Wide",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Object_Wall",
+    "path":"objects/Object_Wall/Object_Wall.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,13 +31,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite_Wall_Grey",
-    "path":"sprites/Sprite_Wall_Grey/Sprite_Wall_Grey.yy",
+    "name":"Sprite_Wall_Grey_Wide",
+    "path":"sprites/Sprite_Wall_Grey_Wide/Sprite_Wall_Grey_Wide.yy",
   },
   "spriteMaskId":null,
-  "tags":[
-    "physical",
-    "structure",
-  ],
   "visible":true,
 }

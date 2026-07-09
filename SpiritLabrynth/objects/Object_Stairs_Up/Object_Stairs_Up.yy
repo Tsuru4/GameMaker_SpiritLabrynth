@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object_Wall",
+  "%Name":"Object_Stairs_Up",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object_Body_Full","path":"objects/Object_Body_Full/Object_Body_Full.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object_Wall",
+  "name":"Object_Stairs_Up",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite_Wall_Grey",
-    "path":"sprites/Sprite_Wall_Grey/Sprite_Wall_Grey.yy",
+    "name":"Sprite_Wall_Stairs",
+    "path":"sprites/Sprite_Wall_Stairs/Sprite_Wall_Stairs.yy",
   },
   "spriteMaskId":null,
   "tags":[

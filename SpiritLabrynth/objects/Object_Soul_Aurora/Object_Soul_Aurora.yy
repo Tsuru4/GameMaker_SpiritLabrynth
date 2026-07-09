@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object_Body_Full",
+  "%Name":"Object_Soul_Aurora",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object_Body_Full",
+  "name":"Object_Soul_Aurora",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,11 +29,15 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite_Body_Full",
-    "path":"sprites/Sprite_Body_Full/Sprite_Body_Full.yy",
+    "name":"Sprite_Soul_Player_1",
+    "path":"sprites/Sprite_Soul_Player_1/Sprite_Soul_Player_1.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "npc",
+    "spirit",
+  ],
   "visible":true,
 }

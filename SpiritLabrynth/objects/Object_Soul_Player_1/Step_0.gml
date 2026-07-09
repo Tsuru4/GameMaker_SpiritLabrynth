@@ -5,20 +5,28 @@ if (host_ID == id)
 
 	if (_hor != 0 || _ver != 0)
 	{
-	if (velocity <= velocity_cap - 1)
-	{
-		velocity+= 0.1;
-	}
+		if (velocity <= velocity_cap - 0.1)
+		{
+			velocity += 0.1;
+		}
+		//technically, tilemap has not been defined yet, so there is nothing to collide with yet.
+		move_and_collide(_hor * velocity, _ver * velocity, []);
 	}
 	else
 	{
 	velocity = 0;
 	}
-
-	move_and_collide(_hor * velocity, _ver * velocity, tilemap);
 }
 else
 {
-	x = host_Id.x;
-	y = host_Id.y;
+	if (instance_exists(host_ID))
+	{
+	x = host_ID.x;
+	y = host_ID.y;
+	}
+	else
+	{
+		host_ID = id;
+		visible = true;
+	}
 }

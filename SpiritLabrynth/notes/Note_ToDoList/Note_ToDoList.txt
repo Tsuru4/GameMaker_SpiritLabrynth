@@ -1,0 +1,24 @@
+Base Prototype Game TODO:
+
+[ ] Create an input method which does not interupt gameplay.
+[ ] Create placeholder artwork for other structures.
+	[ ] Determine what other structures are needed in the first place.
+[ ] Create a navigation tool so the spirit can easily find its body even in the spirit world.
+[ ] Create quest systems and "dialogue".
+[ ] Create a test maze.
+[ ] Create friendly NPCs.
+[ ] Create levers.
+[ ] Create unfriendly NPCs.
+[ ] Create systems for lighting, water, air pressure, and electricity.
+[ ] Create relationship system.
+[ ] Create body maintenance system.
+
+Advance features:
+-Save functionality
+-Sound
+-Animation
+-Better Artwork
+-Flesh out level design
+-Story elements
+-Randomize maze components for replability? (To do this well, compartmentalization should be accounted for from the outset).
+-NPC AI

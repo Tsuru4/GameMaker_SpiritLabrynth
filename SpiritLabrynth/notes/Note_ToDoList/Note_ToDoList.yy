@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Note_ToDoList",
+  "name":"Note_ToDoList",
+  "parent":{
+    "name":"SpiritLabrynth",
+    "path":"SpiritLabrynth.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
